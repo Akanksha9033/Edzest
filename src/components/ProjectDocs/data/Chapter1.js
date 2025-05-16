@@ -35,7 +35,7 @@ A construction company building a bridge is a project because:
           id: "development_of_new_software",
           title: "Development of a New Software",
           content: `
-  Another example of a project is the development of a new so7ware application. This type of project may be smaller in scope than a construction project, but it still requires a great deal of planning and coordination. The project team may include developers, designers, project managers, and quality assurance personnel. The team will have a specific set of requirements and features that must be incorporated into the application and will work together to create a product that meets these requirements. 
+  Another example of a project is the development of a new software application. This type of project may be smaller in scope than a construction project, but it still requires a great deal of planning and coordination. The project team may include developers, designers, project managers, and quality assurance personnel. The team will have a specific set of requirements and features that must be incorporated into the application and will work together to create a product that meets these requirements. 
           `
         },
         {
@@ -51,7 +51,7 @@ A construction company building a bridge is a project because:
    
   Project: A project is a temporary endeavor undertaken to create a unique product, service, or result. Projects have a defined start and end date, and are designed to achieve specific goals or objectives. They are usually non-routine, complex activities that require a high degree of planning, coordination, and management. 
    
-  Opera/on: Operations refer to the ongoing activities and processes that are necessary to keep an organization running smoothly. These are the day-to-day, routine activities that are essential to an organization's core business. Operations may include manufacturing, sales, customer service, and administrative functions. 
+  Operation: Operations refer to the ongoing activities and processes that are necessary to keep an organization running smoothly. These are the day-to-day, routine activities that are essential to an organization's core business. Operations may include manufacturing, sales, customer service, and administrative functions. 
    
   Now, let's differentiate between projects and operations: 
    

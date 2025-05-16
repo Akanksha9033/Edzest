@@ -1,3 +1,4 @@
+import React from 'react';
 const ProjectManagementCategories = ({ categories, onSelectCategory }) => {
   return (
     <div className="container text-center mt-4">

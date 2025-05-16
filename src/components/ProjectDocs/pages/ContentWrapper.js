@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useParams } from "react-router-dom";
 import Content from "./Content";
 import Chapter1 from '../data/Chapter1';

@@ -19,6 +19,7 @@
 
 
 // DropZone component that acts as a drop area for drag-and-drop functionality
+import React from 'react'
 const DropZone = ({ definition, handleDrop, placedItem, isAllDropped }) => {
   return (
     <div

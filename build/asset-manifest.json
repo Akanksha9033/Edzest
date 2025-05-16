@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35261a00.css",
+    "main.js": "/static/js/main.18f6c58a.js",
+    "static/js/488.2925cbe2.chunk.js": "/static/js/488.2925cbe2.chunk.js",
+    "static/media/personalisedsupport.png": "/static/media/personalisedsupport.67c74509072f75c99a1a.png",
+    "static/media/elearning.png": "/static/media/elearning.d5ed4d48027b43e73fb9.png",
+    "static/media/flexible.png": "/static/media/flexible.8183804840aba234514d.png",
+    "static/media/Hero.png": "/static/media/Hero.946865bba36e0d2abaa7.png",
+    "static/media/Trainingpageimage.png": "/static/media/Trainingpageimage.8d5786bf44e66b7e0b56.png",
+    "static/media/Logo.png": "/static/media/Logo.2f98d277981fd0d9a7f8.png",
+    "static/media/aboutimage2.png": "/static/media/aboutimage2.eab8bb19dadd54fc8af3.png",
+    "static/media/aboutimage.png": "/static/media/aboutimage.39f51b7cbb420948f5f6.png",
+    "static/media/Trainerimage.png": "/static/media/Trainerimage.eae72dec203e6df4ba71.png",
+    "static/media/aboutimage3.png": "/static/media/aboutimage3.953f079de2b53fc5c0c5.png",
+    "static/media/Trainer.png": "/static/media/Trainer.08283470771ce397c9c0.png",
+    "static/media/mockphoto.png": "/static/media/mockphoto.217df9ec1b8dc27a6b07.png",
+    "static/media/pmilogo.png": "/static/media/pmilogo.d30b99f0f56af1749c83.png",
+    "index.html": "/index.html",
+    "main.35261a00.css.map": "/static/css/main.35261a00.css.map",
+    "main.18f6c58a.js.map": "/static/js/main.18f6c58a.js.map",
+    "488.2925cbe2.chunk.js.map": "/static/js/488.2925cbe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35261a00.css",
+    "static/js/main.18f6c58a.js"
+  ]
+}
