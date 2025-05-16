@@ -21,7 +21,7 @@ const RegisterForm = ({ event, onClose }) => {
     e.preventDefault();
     setLoading(true);
     try {
-      await axios.post("https://edzest.onrender.com/api/register", {
+      await axios.post("https://edzest-kbc4.onrender.com/api/register", {
         ...formData,
         eventTitle: event.title,
         eventDate: event.date,

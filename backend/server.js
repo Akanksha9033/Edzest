@@ -388,7 +388,7 @@ app.use(express.json({ limit: '10mb' }));
 app.use(bodyParser.json({ limit: '10mb' }));
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://edzest.onrender.com',
+  'https://edzest-kbc4.onrender.com',
   'https://edzest-scg8.vercel.app'
 ];
 

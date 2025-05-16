@@ -605,7 +605,7 @@ const CreateEvent = () => {
 
   const fetchEvents = async () => {
     try {
-      const res = await axios.get('https://edzest.onrender.com/api/events');
+      const res = await axios.get('https://edzest-kbc4.onrender.com/api/events');
       console.log("📋 All Events from DB:", res.data);
       setEventsList(res.data);
     } catch (error) {
