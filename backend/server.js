@@ -386,11 +386,24 @@ app.use('/data', express.static(path.join(__dirname, 'data')));
 // Middleware
 app.use(express.json({ limit: '10mb' }));
 app.use(bodyParser.json({ limit: '10mb' }));
+const allowedOrigins = [
+  'http://localhost:3000',
+  'https://edzest.onrender.com',
+  'https://edzest-scg8.vercel.app'
+];
+
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://edzest.onrender.com'],
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('CORS not allowed for this origin'));
+    }
+  },
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
 }));
+
 
 // Connect to MongoDB using environment variable
 mongoose
